@@ -1,10 +1,10 @@
 package com.github;
 
 public class Book {
-    private String title;
+    private String titleOfBook;
     private String author;
 
     public Book(String title) {
-        this.title = title;
+        this.titleOfBook = title;
     }
 }
